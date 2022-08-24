@@ -1,0 +1,20 @@
+#Butilca Rares
+
+These are some basic functions written in x86_32 asm that can be called from a C program.
+
+cache:: Implements an algorithm for cache loading.
+
+columnar: Ciphers a given haystack(text) using the Columnar Transposition Cipher. Link below:
+https://www.geeksforgeeks.org/columnar-transposition-cipher.
+
+sort_list: Simply sorts a list. Nothing more.
+
+cmmmc: Finds the least common multiple(cmmdc = lcm) of 2 numbers.
+
+parantheses: The well-known parantheses problem: check if the parantheses are correctly closed.
+
+get_words: Separates a string into words sorted by length and then lexicographically.
+
+compute_expression: Calculates the result of an expression given as a string.
+
+
